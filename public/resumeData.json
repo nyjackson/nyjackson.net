@@ -44,13 +44,13 @@
         "company":"Techie Youth",
         "title":"Remote IT Professional",
         "years":"July 2021 - August 2021",
-        "description":" Tech Income Courses: Completing remote technology income courses ◦ Assignments: Publishing an editing video, developing a website, and writing a blog post"
+        "description":"◦ Tech Income Courses: Completing remote technology income courses ◦ Assignments: Publishing an editing video, developing a website, and writing a blog post"
       },
       {
         "company":"Vassar College",
         "title":"Media Technician",
         "years":"September 2017 - May 2021",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"◦ Film: Recorded lectures, talks, and performances on-campus ◦ IT Tasks: Solved technical issues onsite with students and faculty ◦ Customer Relations: Set up and rented out media equipment for students and faculty"
       }
     ],
     "skills":[
@@ -62,7 +62,7 @@
         "title":"Cabo 2D",
         "category":"Card Games",
         "image":"01.jpg",
-        "url":"https://www.github.com/nyjackson" 
+        "url":"https://github.com/nyjackson/Cabo-2D" 
       },
       {
         "title":"Braille Audio Mystery",
@@ -80,7 +80,7 @@
         "title":"NJ's Resume Website",
         "category":"React-based website",
         "image":"nyjackson.net_react_nice_screenshot.jpg",
-        "url":"http://www.nyjackson.net"
+        "url":"https://github.com/nyjackson/nyjackson.net-react"
       }
       
     ]
