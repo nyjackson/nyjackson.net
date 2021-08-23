@@ -754,6 +754,7 @@ textarea:focus {
 
 textarea {
   min-height: 220px;
+  resize: none;
 }
 
 label,

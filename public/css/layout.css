@@ -942,6 +942,7 @@ call-to-action .button {
 /* contact form */
 #contact form {
   margin-bottom: 30px;
+  width: 100%;
 }
 #contact label {
   font: 15px/24px "opensans-bold", sans-serif;
@@ -969,6 +970,7 @@ call-to-action .button {
 #contact select:focus {
   color: #eae0cc;
   background-color: #0762f9;
+  resize: none;
 }
 #contact button.submit {
   text-transform: uppercase;
