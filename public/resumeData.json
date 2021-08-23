@@ -1,0 +1,88 @@
+{
+  "main": {
+    "name":"Nyala Jackson",
+    "description":"Computer Science graduate passionate about virtual reality and game development. Innovative product designer and team player, crafting a braille-buttoned audio mystery game. Proficient in technologies like Java, Microsoft Word, and Javascript",
+    "image":"profilepic.png",
+    "bio":"Hello, my name is Nyala Jackson. Welcome to my site! I am a recent Vassar College graduate (Class of 2021) with a BA in Computer Science.  This site will include all my work in various fields, such as my coding portfolio, writing samples, designs/artwork/photographs, and academic/professional works that I may create in the future. You can navigate through these fields using their corresponding names in the header. *To inform, this website is still in development. ",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "nymjackson@gmail.com",
+    "github":"https://github.com/nyjackson",
+    "project":"https://nyjackson.github.io/",
+    "address":{
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
+    },
+    "website": "http://www.nyjackson.net",
+    "resumedownload":"PDFs/08_2021_Ny_Jackson_Resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nyala-jackson-353454103/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nyjackson",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Vassar College",
+        "degree":"Bachelor of Arts in Computer Science",
+        "graduated":"June 2021",
+        "description":"From Algorithms and compilers to Agile and language theory, I learned a plethora of computer science languages, theories, and concepts. In addition to my academic pursuits in Computer Science, I took classes ranging from English and Music to Linear Algebra and Beginner's ASL. In my spare time, I was a forward (second-row/lock) on the Vassar's Women Rugby team, a secretary for the Vassar Food Community, a Big Sibling in the Black Student's Union, and a member of additional affiliate clubs on campus. "
+      }
+    ],
+    "work":[
+      {
+        "company":"Techie Youth",
+        "title":"Remote IT Professional",
+        "years":"July 2021 - August 2021",
+        "description":" Tech Income Courses: Completing remote technology income courses ◦ Assignments: Publishing an editing video, developing a website, and writing a blog post"
+      },
+      {
+        "company":"Vassar College",
+        "title":"Media Technician",
+        "years":"September 2017 - May 2021",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Cabo 2D",
+        "category":"Card Games",
+        "image":"01.jpg",
+        "url":"https://www.github.com/nyjackson" 
+      },
+      {
+        "title":"Braille Audio Mystery",
+        "category":"Audio Games",
+        "image":"JSEN_Final_Prototype_Braille.jpg",
+        "url":"https://github.com/nyjackson/Audio-Mystery-Game"
+      },
+      {
+        "title":"Techie Youth Projects",
+        "category":"Portfolio",
+        "image":"03.jpg",
+        "url":"http://www.nyjackson.net"
+      },
+      {
+        "title":"NJ's Resume Website",
+        "category":"React-based website",
+        "image":"nyjackson.net_react_nice_screenshot.jpg",
+        "url":"http://www.nyjackson.net"
+      }
+      
+    ]
+  }
+}
