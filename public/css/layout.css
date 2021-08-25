@@ -970,7 +970,6 @@ call-to-action .button {
 #contact select:focus {
   color: #eae0cc;
   background-color: #0762f9;
-  resize: none;
 }
 #contact button.submit {
   text-transform: uppercase;
