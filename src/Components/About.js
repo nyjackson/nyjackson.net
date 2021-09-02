@@ -17,7 +17,7 @@ class About extends Component {
          <h1>About Me</h1>
               <p>{bio}</p>
                     <a href={resumeDownload} className="button">
-                      <i className="fa fa-download"></i>Download Resume
+                      <i className="fa fa-download"></i> Download Resume
                     </a>
           </div>
         </Fade>
